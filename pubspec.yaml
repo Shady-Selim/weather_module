@@ -3,6 +3,13 @@ description: A Flutter package to get today's temperature for a given city name 
 version: 1.0.0
 homepage: https://github.com/yourusername/weather_module
 
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.weathermodule.weather_module
+        pluginClass: WeatherModulePlugin
+
 environment:
   sdk: '>=3.0.0 <4.0.0'
   flutter: ">=3.0.0"
