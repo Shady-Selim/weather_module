@@ -1,0 +1,1 @@
+ /Users/shady/weather_module/weather_module/example/.dart_tool/flutter_build/958bfb65bc3928e4968499d7eaf58a27/native_assets.json: 
