@@ -1,5 +1,5 @@
 group 'com.weathermodule'
-version '1.0.3'
+version '1.0.4'
 
 buildscript {
     ext.kotlin_version = '2.0.0'
@@ -60,9 +60,5 @@ dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
     implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3"
     implementation "androidx.annotation:annotation:1.7.0"
-    def flutterVersion = '1.0.0-1bdc0afd0afd7cc46c5212765d8ab54b6134fa4c'
-    implementation "io.flutter:flutter_embedding_release:$flutterVersion"
-    implementation "io.flutter:arm64_v8a_release:$flutterVersion"
-    implementation "io.flutter:armeabi_v7a_release:$flutterVersion"
-    implementation "io.flutter:x86_64_release:$flutterVersion"
+    implementation "io.flutter:flutter_embedding_release:1.0.0-1bdc0afd0afd7cc46c5212765d8ab54b6134fa4c"
 }
