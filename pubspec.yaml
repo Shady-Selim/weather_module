@@ -1,6 +1,6 @@
 name: weather_module
 description: A Flutter package to get today's temperature for a given city name using the free wttr.in API.
-version: 1.0.0
+version: 1.0.3
 homepage: https://github.com/shady-selim/weather_module
 
 flutter:
