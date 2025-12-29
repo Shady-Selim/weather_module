@@ -1,7 +1,8 @@
-com.weathermodule.weather_module-pngs-0 /Users/shady/weather_module/android/build/generated/res/pngs/release
-com.weathermodule.weather_module-resValues-1 /Users/shady/weather_module/android/build/generated/res/resValues/release
-com.weathermodule.weather_module-mergeReleaseResources-2 /Users/shady/weather_module/android/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
-com.weathermodule.weather_module-mergeReleaseResources-3 /Users/shady/weather_module/android/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
-com.weathermodule.weather_module-merged_res-4 /Users/shady/weather_module/android/build/intermediates/merged_res/release
-com.weathermodule.weather_module-main-5 /Users/shady/weather_module/android/src/main/res
-com.weathermodule.weather_module-release-6 /Users/shady/weather_module/android/src/release/res
+com.weathermodule.weather_module-core-1.1.0-0 /Users/shady/.gradle/caches/transforms-3/917be6ee890ec14e0b2bd5504581bc1d/transformed/core-1.1.0/res
+com.weathermodule.weather_module-pngs-1 /Users/shady/weather_module/android/build/generated/res/pngs/release
+com.weathermodule.weather_module-resValues-2 /Users/shady/weather_module/android/build/generated/res/resValues/release
+com.weathermodule.weather_module-mergeReleaseResources-3 /Users/shady/weather_module/android/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.weathermodule.weather_module-mergeReleaseResources-4 /Users/shady/weather_module/android/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.weathermodule.weather_module-merged_res-5 /Users/shady/weather_module/android/build/intermediates/merged_res/release
+com.weathermodule.weather_module-main-6 /Users/shady/weather_module/android/src/main/res
+com.weathermodule.weather_module-release-7 /Users/shady/weather_module/android/src/release/res
